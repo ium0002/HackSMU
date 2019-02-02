@@ -1,0 +1,2 @@
+# HackSMU
+first Hackathon
